@@ -18,12 +18,12 @@ body {
 #titulo {}
 
 p {
-    
+    font-size: 25px;
 }
 
 .imgcentro {
     align-items: center;
-    
+
 }
 
 nav {}
@@ -35,7 +35,7 @@ li {
 }
 
 li a {
-    font-size: 50px;
+    font-size: 25px;
 
 }
 
