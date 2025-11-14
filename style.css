@@ -46,6 +46,7 @@ nav {}
 
 li {
     display: inline-block;
+    margin: 30px;
 }
 
 li a {
