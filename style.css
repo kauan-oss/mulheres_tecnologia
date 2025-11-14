@@ -15,7 +15,11 @@ body {
     gap: 30%;
 }
 
-#titulo {}
+#titulo {
+    font-size: 20px;
+    text-transform: lowercase;
+    text-decoration: double;
+}
 
 p {
     font-size: 25px;
