@@ -50,7 +50,7 @@ a {
 }
 
 a:hover {
-    background-color: green;
+    background-color: rgb(94, 102, 94);
     transform: scale(1.1);
     cursor: pointer;
 }
