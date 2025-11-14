@@ -1,10 +1,10 @@
 body {
-    background-color: rgb(58, 198, 223);
+    background-color: rgb(236, 142, 158);
     line-height: 1.8em;
 }
 
 .cabecalho {
-    background-color: rgb(223, 83, 58);
+    background-color: purple;
     color: whitesmoke;
     padding-top: 30px;
     padding-bottom: 30px;
