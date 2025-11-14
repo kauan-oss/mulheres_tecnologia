@@ -44,10 +44,15 @@ p {
 
 nav {}
 
-a{
+a {
     text-decoration: none;
     color: #000;
-    ]
+}
+
+a :hover {
+    background-color: green;
+    transform: scale(1.1);
+    cursor: pointer;
 }
 
 li {
@@ -66,10 +71,8 @@ button {
 }
 
 @media screen and (max-width: 768px) {
-    
-    body{
-        
-    }
+
+    body {}
 
     .titulo {
         font-size: 30px;
