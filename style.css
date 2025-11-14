@@ -35,6 +35,7 @@ p {
     margin: 10px;
     height: 500px;
     width: 500px;
+    border-radius: 80px;
 }
 
 nav {}
