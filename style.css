@@ -39,11 +39,7 @@ p {
 
 nav {}
 
-li {
-    display: inline-block;
-
-
-}
+li {}
 
 li a {
     font-size: 25px;
