@@ -39,7 +39,10 @@ p {
 
 nav {}
 
-li {}
+li {
+    text-decoration: ;
+    list-style-type: disc;
+}
 
 li a {
     font-size: 25px;
