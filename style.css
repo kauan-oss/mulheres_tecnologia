@@ -1,6 +1,7 @@
 body {
     background-color: rgb(236, 142, 158);
     line-height: 1.8em;
+    margin: 10 px;
 }
 
 .cabecalho {
